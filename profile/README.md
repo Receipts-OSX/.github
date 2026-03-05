@@ -1,6 +1,6 @@
 # Receipts Advanced
 <div align="center">
-  <img src="https://static.macupdate.com/products/57750/m/phpksdqcs-logo.png?v=1768977883" width="300" height="auto;"> 
+  <img src="https://store.setapp.com/app/351/44855/icon-1758701271-68d3a6d75ac3a.png" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
